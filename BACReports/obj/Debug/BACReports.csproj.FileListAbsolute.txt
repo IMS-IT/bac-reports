@@ -1,0 +1,154 @@
+D:\Projects\BACReports\BACReports\bin\Debug\BACReports.exe.config
+D:\Projects\BACReports\BACReports\bin\Debug\BACReports.exe
+D:\Projects\BACReports\BACReports\bin\Debug\BACReports.pdb
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.exe
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.pdb
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmLogin.resources
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmMain.resources
+D:\Projects\BACReports\BACReports\bin\Debug\MySql.Data.DLL
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmUncollected.resources
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+D:\Projects\BACReports\BACReports\bin\Debug\BACReports.exe.manifest
+D:\Projects\BACReports\BACReports\bin\Debug\BACReports.application
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.exe.manifest
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.application
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmLogin.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmMain.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmUncollected.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.exe
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.pdb
+E:\Projects\BACReports\BACReports\bin\Debug\BACReports.exe.config
+E:\Projects\BACReports\BACReports\bin\Debug\BACReports.exe.manifest
+E:\Projects\BACReports\BACReports\bin\Debug\BACReports.application
+E:\Projects\BACReports\BACReports\bin\Debug\BACReports.exe
+E:\Projects\BACReports\BACReports\bin\Debug\BACReports.pdb
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.exe.manifest
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.application
+E:\Projects\BACReports\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+D:\Projects\BACReports\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+C:\IMS\Projects\Systems\BACReports\BACReports\bin\Debug\BACReports.exe.config
+C:\IMS\Projects\Systems\BACReports\BACReports\bin\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports\BACReports\bin\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports\BACReports\bin\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports\BACReports\bin\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmLogin.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmMain.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmUncollected.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports\BACReports\obj\Debug\BACReports.frmLibertyRemmit.resources
+D:\Projects\BACReports 1.0.8\BACReports\bin\Debug\BACReports.exe.config
+D:\Projects\BACReports 1.0.8\BACReports\bin\Debug\BACReports.exe.manifest
+D:\Projects\BACReports 1.0.8\BACReports\bin\Debug\BACReports.application
+D:\Projects\BACReports 1.0.8\BACReports\bin\Debug\BACReports.exe
+D:\Projects\BACReports 1.0.8\BACReports\bin\Debug\BACReports.pdb
+D:\Projects\BACReports 1.0.8\BACReports\bin\Debug\MySql.Data.DLL
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmLibertyRemmit.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmLogin.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmMain.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmUncollected.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.exe.manifest
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.application
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.exe
+D:\Projects\BACReports 1.0.8\BACReports\obj\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\bin\Debug\BACReports.exe.config
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\bin\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\bin\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\bin\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\bin\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmLibertyRemmit.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmLogin.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmMain.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmUncollected.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports 1.0.9\BACReports\obj\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\bin\Debug\BACReports.exe.config
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\bin\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\bin\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\bin\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\bin\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmLibertyRemmit.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmLogin.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmMain.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmUncollected.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports\BACReports 1.0.9\BACReports\obj\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\bin\Debug\BACReports.exe.config
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\bin\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\bin\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\bin\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\bin\Debug\BACReports.pdb
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.csprojAssemblyReference.cache
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmC4StarRemmit.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmC4StarVerification.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmLibertyRemmit.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmLogin.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmMain.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmPostedCollection.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmUncollected.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.frmUncollectedDetails.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.Properties.Resources.resources
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.csproj.GenerateResource.cache
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.csproj.CoreCompileInputs.cache
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.exe.manifest
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.application
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.csproj.CopyComplete
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.exe
+C:\IMS\Projects\Systems\BACReports\BACReports 1.1.0\BACReports\obj\Debug\BACReports.pdb
